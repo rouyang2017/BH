@@ -10,4 +10,4 @@ Using the code:
 Note:
 1. Additional information to indicate which atoms to be randomly displaced during BH is needed in the POSCAR (See the provided two examples). The symbol 'Y' denotes Yes (allowing random displacement), and 'N' denotes No.
 2. The 'engine' to power the BH can be either DFT or MLFF, depending on the setting in the INCAR.
-3. The BH trajectories can be visualized by dragging the output file BH.out into the software Jmol.
+3. The BH trajectory can be visualized by dragging the output file BH.out into the software Jmol.
